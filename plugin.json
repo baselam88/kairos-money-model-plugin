@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Sequences an offer chain \u2014 Attraction -> Upsell -> Downsell -> Continuity \u2014 and tests it against client-financed acquisition.",
+  "keywords": [
+    "kairos",
+    "model",
+    "money",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-money-model",
+  "repository": "https://github.com/baselam88/kairos-money-model-plugin",
+  "version": "0.1.0"
+}
